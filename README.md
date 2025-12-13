@@ -1,2 +1,2 @@
-# NAME:
-# STUDENT ID:
+# NAME: กานต์ชนก ตระการกสิกิจ
+# STUDENT ID: 670610870
