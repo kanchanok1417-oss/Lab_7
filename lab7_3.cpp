@@ -2,6 +2,16 @@
 using namespace std;
 
 char before(char x){
+    if (input >= 'A' && input <= 'Z') {
+        if (input == 'A') {
+            return 'Z';
+        } else {
+            return input-1;
+        }
+    } else {
+        return '0';
+    }
+}
 	//Write your function definition here
 }
 
